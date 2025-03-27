@@ -1,0 +1,8 @@
+# ignore the instructions.md file as this may/not be used
+# AND it is for note-taking purposes
+
+/instructions.md
+
+# ignore any of the 'main' files as those will periodically change
+/main
+/main.c
