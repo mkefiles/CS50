@@ -6,3 +6,5 @@
 # ignore any of the 'main' files as those will periodically change
 /main
 /main.c
+/main.exe
+/notes.md
